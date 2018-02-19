@@ -1,4 +1,4 @@
-# Stohastic mathematocs simulation excersies
+# Stohastic mathematocs simulation excercises
 
 This are simulation exersises for class Stohastic Mathematics at Faculty of Engineering Rijeka.
 This repository contains python simulations as well as statistical analysis in Excel.
