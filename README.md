@@ -3,7 +3,8 @@
 This are simulation exersises for class Stohastic Mathematics at Faculty of Engineering Rijeka.
 This repository contains python simulations as well as statistical analysis in Excel.
 
-## Part one (prvi dio)
+## Contents
+### Part one (prvi dio)
 
 Both Python and Excel:
 
@@ -27,3 +28,9 @@ Python:
 * Markov chains
 * Python processes
 
+## Dependancies
+
+* numpy
+* matplotlib
+* Python 2.7
+* Excel
